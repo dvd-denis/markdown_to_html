@@ -112,7 +112,7 @@ wheels = [
 ]
 
 [[package]]
-name = "md-converter"
+name = "markdown-to-html"
 version = "0.1.0"
 source = { editable = "." }
 

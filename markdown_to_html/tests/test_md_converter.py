@@ -1,5 +1,5 @@
 import unittest
-from md_converter.converter import convert_markdown_to_html
+from markdown_to_html.converter import convert_markdown_to_html
 
 class TestMarkdownConverter(unittest.TestCase):
     def test_paragraph(self):
